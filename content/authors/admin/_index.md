@@ -25,7 +25,7 @@ organizations:
     url: https://education.uci.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Tiffany's work focuses on how early childhood education policies can improve opportunities for underserved communities. Her current strands of research focus on examining childcare subsidies, early childhood education interventions, and school choice. She uses causal inference and qualitative methodologies and works with community partners in research-practice partnership settings to help advance shared knowledge and support local communities.
+bio: ''
 
 # Interests to show in About widget
 interests:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tiffany's work focuses on how early childhood education policies can improve opportunities for underserved communities. Her current strands of research focus on examining childcare subsidies, early childhood education interventions, and school choice. She uses causal inference and qualitative methodologies and works with community partners in research-practice partnership settings to help advance shared knowledge and support local communities.
 {style="text-align: justify;"}
