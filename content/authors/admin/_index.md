@@ -21,8 +21,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Irvine 
-  School of Education
+  - name: University of California, Irvine School of Education
     url: https://education.uci.edu/
 
 # Short bio (displayed in user profile at end of posts)
