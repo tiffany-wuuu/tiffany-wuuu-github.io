@@ -30,6 +30,8 @@ bio: ''
 # Interests to show in About widget
 interests:
   - Early Childhood Education Policy
+  - Childcare Subsidies
+  - School Choice
   - Causal Inference
   - Qualitative Methods
 
@@ -39,6 +41,9 @@ education:
     - course: PhD in Education (Educational Policy and Social Context)
       institution: University of California, Irvine
       year: 2025 (expected)
+    - course: MA in Education (Educational Policy and Social Context)
+      institution: University of California, Irvine
+      year: 2023
     - course: MSc in Child Development and Education
       institution: University of Oxford
       year: 2018
@@ -51,17 +56,17 @@ education:
 #skills:
 #  - name: Technical
 #    items:
-#      - name: Python
+#      - name: Stata
 #        description: ''
 #        percent: 80
 #        icon: python
 #        icon_pack: fab
-#      - name: Data Science
+#      - name: Data Collection
 #        description: ''
 #        percent: 100
 #        icon: chart-line
 #        icon_pack: fas
-#      - name: SQL
+#      - name: Interviews
 #        description: ''
 #        percent: 40
 #        icon: database
