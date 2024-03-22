@@ -116,7 +116,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: static/uploads/CV.pdf
+    link: uploads/CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
