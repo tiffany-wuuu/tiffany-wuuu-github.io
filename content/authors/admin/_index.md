@@ -54,17 +54,17 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #skills:
-#  - name: Technical
-#    items:
-#      - name: Stata
+- name: Technical
+items:
+  - name: Stata
 #        description: ''
 #        percent: 80
-#        icon: python
+        icon: python
 #        icon_pack: fab
-#      - name: Data Collection
+  - name: Data Collection
 #        description: ''
 #        percent: 100
-#        icon: chart-line
+        icon: chart-line
 #        icon_pack: fas
 #      - name: Interviews
 #        description: ''
