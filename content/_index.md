@@ -106,7 +106,7 @@ sections:
           icon: coursera
           organization: Administration for Children and Families
           organization_url: 
-          title: Improving the Quality and Supply of Child Care and Development Fund (CCDF) Providers: Evaluating the Impacts of the 2014 CCDF Block Grant Reauthorization
+          title: need to fix
           url: ''
 #        - certificate_url: https://www.edx.org
 #          date_end: ''
