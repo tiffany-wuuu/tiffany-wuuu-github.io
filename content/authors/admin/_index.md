@@ -61,14 +61,19 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Collection
+      - name: Qualitative Analysis
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: Interviews
+      - name: Data Collection
         description: ''
-        percent: 40
+        percent: 100
+        icon: database
+        icon_pack: fas
+      - name: Large-scale Secondary Datasets
+        description: ''
+        percent: 100
         icon: database
         icon_pack: fas
 #  - name: Hobbies
