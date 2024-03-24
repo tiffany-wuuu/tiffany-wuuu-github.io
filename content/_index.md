@@ -101,7 +101,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2022-01-01'
+          date_start: '2022-09-30'
           description: '$100,000, Co-Investigator'
           icon: 
           organization: Administration for Children and Families
