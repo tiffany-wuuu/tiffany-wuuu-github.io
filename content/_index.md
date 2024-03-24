@@ -104,8 +104,8 @@ sections:
           date_start: '2021-01-25'
           description: ''
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
+          organization: Administration for Children and Families
+          organization_url: 
           title: Neural Networks and Deep Learning
           url: ''
 #        - certificate_url: https://www.edx.org
