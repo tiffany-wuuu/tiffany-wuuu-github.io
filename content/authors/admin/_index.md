@@ -58,9 +58,9 @@ skills:
     items:
       - name: Stata
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+        percent: 100
+        icon: stata
+        icon_pack: devicon
       - name: Qualitative Analysis
         description: ''
         percent: 100
