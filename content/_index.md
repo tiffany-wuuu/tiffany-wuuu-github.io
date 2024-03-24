@@ -101,7 +101,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2022'
+          date_start: '2022-01-01'
           description: ''
           icon: coursera
           organization: Administration for Children and Families
