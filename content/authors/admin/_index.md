@@ -59,8 +59,8 @@ skills:
       - name: Stata
         description: ''
         percent: 100
-        icon: devicon/stata
-        icon_pack: devicon
+        icon: laptop-code
+        icon_pack: fas
       - name: Qualitative Analysis
         description: ''
         percent: 100
