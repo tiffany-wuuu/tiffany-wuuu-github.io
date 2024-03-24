@@ -202,6 +202,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    id: papers
     content:
       title: Recent Papers
       text: |-
