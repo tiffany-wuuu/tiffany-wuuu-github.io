@@ -58,7 +58,7 @@ skills:
     items:
       - name: Stata
         description: ''
-       # percent: 100
+        percent: 100
         icon: devicon/stata
         icon_pack: devicon
       - name: Qualitative Analysis
@@ -69,7 +69,7 @@ skills:
       - name: Data Collection
         description: ''
         percent: 100
-        icon: database
+        icon: users
         icon_pack: fas
       - name: Large-scale Secondary Datasets
         description: ''
