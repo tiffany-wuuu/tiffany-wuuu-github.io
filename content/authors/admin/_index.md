@@ -64,7 +64,7 @@ skills:
       - name: Qualitative Analysis
         description: ''
         percent: 100
-        icon: magnifying-glass-chart
+        icon: magnifying-glass
         icon_pack: fas
       - name: Data Collection
         description: ''
