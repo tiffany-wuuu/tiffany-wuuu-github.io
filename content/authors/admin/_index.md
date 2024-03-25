@@ -79,6 +79,15 @@ skills:
         percent: 100
         icon: database
         icon_pack: fas
+# Markdown TESTING
+markdown: 
+  - name: Technical
+    items:
+      - name: Stata
+        description: ''
+        percent: 100
+        icon: laptop-code
+        icon_pack: fas  
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
