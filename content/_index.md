@@ -65,7 +65,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 
-          date_end: ''
+          date_end: '2024-09-30'
           date_start: '2022-09-30'
           description: '$100,000, Co-Investigator'
           icon: 
