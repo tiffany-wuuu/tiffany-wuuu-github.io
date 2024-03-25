@@ -69,6 +69,7 @@ sections:
         .column {
           flex: 25%;
           padding: 20px;
+          text-align: center;
         }
       </style>
 
