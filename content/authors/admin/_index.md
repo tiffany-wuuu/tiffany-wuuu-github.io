@@ -110,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-Tiffany's work focuses on how early childhood education policies can improve opportunities for underserved communities. Her current strands of research focus on early childhood policies, particularly childcare subsidies and the early childhood teacher workforce, and school choice. She uses causal inference and qualitative methodologies and works with community partners in research-practice partnership settings to help advance shared knowledge and support local communities.
+Tiffany's work focuses on how early childhood education policies can improve opportunities for underserved communities. Her current strands of research focus on early childhood policies, particularly childcare subsidies and the teacher workforce, and school choice. She uses causal inference and qualitative methodologies and works with community partners in research-practice partnership settings to help advance shared knowledge and support local communities.
 {style="text-align: justify;"}
