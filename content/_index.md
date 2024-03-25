@@ -55,7 +55,7 @@ sections:
     content:
       title: Skills (new)
       subtitle: 
-      text: Stata ![Stata logo](uploads/laptop.png)<br>Qualitative Analysis ![Qualitative logo](uploads/qual.png)<br> Data Collection ![People logo](uploads/people128.png)<br> Large-scale Secondary Datasets ![data image](uploads/data128.png)Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!    
+      text: Stata ![Stata logo](uploads/laptop.png)<br>Qualitative Analysis ![Qualitative logo](uploads/qual.png)<br> Data Collection ![People logo](uploads/people128.png)<br> Large-scale Secondary Datasets ![folder image](uploads/folder128.png)Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!    
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
