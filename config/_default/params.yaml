@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2024} Tiffany Wu'
+    notice: '© 2024 Tiffany Wu'
     license:
       enable: true
       allow_derivatives: false
