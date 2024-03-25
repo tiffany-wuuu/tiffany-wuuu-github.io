@@ -43,15 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-  - block: resume
+  - block: resume-biography
     content:
       # The user's folder name in `content/authors/`
       username: admin
@@ -66,7 +58,15 @@ sections:
         filename: ''
       biography:
         # Customize the CSS style of your biography text (optional)
-        style: ''
+        style: ''    
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
