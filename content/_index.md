@@ -61,14 +61,14 @@ sections:
         .row {
           display: flex;
           flex-wrap: wrap;
+          align-items: center;
+          justify-content: center;
         }
 
         /* Create four equal columns */
         .column {
           flex: 25%;
           padding: 20px;
-          align-items: center;
-          justify-content: center;
         }
       </style>
 
