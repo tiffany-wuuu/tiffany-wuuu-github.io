@@ -67,9 +67,9 @@ sections:
         - certificate_url: 
           date_end: '2024-09-30'
           date_start: '2022-09-30'
-          description: '$100,000, Co-Investigator'
+          description: ''
           icon: 
-          organization: Administration for Children and Families
+          organization: Administration for Children and Families; $100,000, Co-Investigator
           organization_url: 
           title: "Improving the Quality and Supply of Child Care and Development Fund (CCDF) Providers: Evaluating the Impacts of the 2014 CCDF Block Grant Reauthorization"
           url: ''
