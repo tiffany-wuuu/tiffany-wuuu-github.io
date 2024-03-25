@@ -65,7 +65,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Introduction to Early Childhood Education
-          company: Educ 106
+          company: Educ 106 (Undergraduate)
           company_url: ''
           company_logo: 
           location: UC Irvine
@@ -73,13 +73,21 @@ sections:
           date_end: '2020-12-01'
           description: Teaching Assistant
         - title: Multicultural Education in K-12 Schools
-          company: Educ 124
+          company: Educ 124 (Undergraduate)
           company_url: ''
           company_logo: 
           location: UC Irvine
           date_start: '2021-01-01'
           date_end: '2021-06-01'
           description: Teaching Assistant, 2 quarters
+        - title: Policy and Teaching 
+          company: Educ 243 (MAT)
+          company_url: ''
+          company_logo: 
+          location: UC Irvine
+          date_start: '2021-06-01'
+          date_end: '2021-08-01'
+          description: Teaching Assistant, 2 sections
     design:
       columns: '2'
   - block: accomplishments
