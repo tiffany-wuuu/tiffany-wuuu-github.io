@@ -53,7 +53,7 @@ sections:
 #      columns: '1'
   - block: markdown
     content:
-      title: Skills 
+      title: Experience 
       subtitle: 
       text: '
       <style>
