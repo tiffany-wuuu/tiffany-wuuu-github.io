@@ -55,14 +55,43 @@ sections:
     content:
       title: Skills 
       subtitle: 
-      text: "<div>
-        <ul>
-          <li>Data Collection</li>
-          <li>Large-Scale Secondary Datasets</li>
-          <li>Stata</li>
-          <li>Qualitative Analysis</li>
-        </ul>
-      </div>"
+      text: '
+      <style>
+        /* Container for flexboxes */
+        .row {
+          display: flex;
+          flex-wrap: wrap;
+        }
+
+        /* Create four equal columns */
+        .column {
+          flex: 25%;
+          padding: 20px;
+        }
+      </style>
+
+      <div class="row">
+        <div class="column" style="background-color:#aaa;">
+          <h2>Data Collection</h2>
+          <p>Some text..</p>
+        </div>
+        
+        <div class="column" style="background-color:#bbb;">
+          <h2>Large-Scale Secondary Datasets</h2>
+          <p>Some text..</p>
+        </div>
+        
+        <div class="column" style="background-color:#ccc;">
+          <h2>Stata</h2>
+          <p>Some text..</p>
+        </div>
+        
+        <div class="column" style="background-color:#ddd;">
+          <h2>Qualitative Analysis</h2>
+          <p>Some text..</p>
+        </div>
+      </div>
+      '
 #       __Data Collection__ ![People image](uploads/people128.png) **Large-Scale Secondary Datasets** ![spreadsheet image](uploads/spreadsheet.png) **Stata** ![Stata logo](uploads/laptop.png) **Qualitative Analysis** ![Qualitative logo](uploads/qual.png) 
   - block: accomplishments
     content:
