@@ -75,6 +75,12 @@ sections:
         .centered-img {
           margin: 0 auto;
         }
+
+        @media screen and (max-width: 600px) {
+          .row {
+            flex-direction: column;
+          }
+        }
       </style>
 
       <div class="row">
