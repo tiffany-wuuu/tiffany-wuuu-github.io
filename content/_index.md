@@ -55,7 +55,7 @@ sections:
     content:
       title: Skills 
       subtitle: 
-      text: _Data Collection__ ![People image](uploads/people128.png) **Large-Scale Secondary Datasets** ![spreadsheet image](uploads/spreadsheet.png) **Stata** ![Stata logo](uploads/laptop.png) **Qualitative Analysis** ![Qualitative logo](uploads/qual.png) _ 
+      text: __Data Collection__ ![People image](uploads/people128.png) **Large-Scale Secondary Datasets** ![spreadsheet image](uploads/spreadsheet.png) **Stata** ![Stata logo](uploads/laptop.png) **Qualitative Analysis** ![Qualitative logo](uploads/qual.png) _ 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
