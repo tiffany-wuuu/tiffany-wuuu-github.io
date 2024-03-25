@@ -63,7 +63,6 @@ sections:
           flex-wrap: wrap;
           align-items: center;
           justify-content: center;
-          text-align: center;
         }
 
         /* Create four equal columns */
@@ -71,6 +70,10 @@ sections:
           flex: 25%;
           padding: 20px;
           text-align: center;
+        }
+
+        .column img {
+          margin: 0, auto;
         }
       </style>
 
