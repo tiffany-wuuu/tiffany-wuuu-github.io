@@ -70,13 +70,8 @@ sections:
           company_logo: 
           location: 
           date_start: '2020-09-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          date_end: '2020-12-01'
+          description: Teaching Assistant
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
