@@ -69,9 +69,9 @@ sections:
           date_start: '2022-09-30'
           description: ''
           icon: 
-          organization: Administration for Children and Families; $100,000, Co-Investigator
+          organization: Administration for Children and Families
           organization_url: 
-          title: "Improving the Quality and Supply of Child Care and Development Fund (CCDF) Providers: Evaluating the Impacts of the 2014 CCDF Block Grant Reauthorization"
+          title: "Improving the Quality and Supply of Child Care and Development Fund (CCDF) Providers: Evaluating the Impacts of the 2014 CCDF Block Grant Reauthorization ($100,000, Co-Investigator)"
           url: ''
 #        - certificate_url: https://www.edx.org
 #          date_end: ''
