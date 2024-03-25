@@ -79,7 +79,7 @@ sections:
         </div>
         
         <div class="column">
-          <h2>Large-Scale Secondary Datasets</h2>
+          <h2>Large-Scale Datasets</h2>
           <img src="../uploads/spreadsheet.png">
         </div>
         
