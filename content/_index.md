@@ -195,7 +195,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Introduction to Early Childhood Education
-          company: UCI Educ 106 (Undergraduate)
+          company: UCI Educ 106 (Undergraduate Course)
           company_url: ''
           company_logo: 
           location: Teaching Assistant
@@ -203,7 +203,7 @@ sections:
           date_end: '2020-12-01'
           description: 
         - title: Multicultural Education in K-12 Schools
-          company: UCI Educ 124 (Undergraduate)
+          company: UCI Educ 124 (Undergraduate Course)
           company_url: ''
           company_logo: 
           location: Teaching Assistant, 2 quarters
