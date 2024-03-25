@@ -71,22 +71,22 @@ sections:
       </style>
 
       <div class="row">
-        <div class="column" style="background-color:#aaa;">
+        <div class="column">
           <h2>Data Collection</h2>
           <p>Some text..</p>
         </div>
         
-        <div class="column" style="background-color:#bbb;">
+        <div class="column">
           <h2>Large-Scale Secondary Datasets</h2>
           <p>Some text..</p>
         </div>
         
-        <div class="column" style="background-color:#ccc;">
+        <div class="column">
           <h2>Stata</h2>
           <p>Some text..</p>
         </div>
         
-        <div class="column" style="background-color:#ddd;">
+        <div class="column">
           <h2>Qualitative Analysis</h2>
           <p>Some text..</p>
         </div>
