@@ -65,36 +65,20 @@ skills:
         percent: 100
         icon: magnifying-glass
         icon_pack: fas
+  - name: Research
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
       - name: Data Collection
         description: ''
         percent: 100
-        icon: users
+        icon: users-hiking
         icon_pack: fas
       - name: Large-scale Secondary Datasets
         description: ''
         percent: 100
         icon: database
         icon_pack: fas
-  - name: Research
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
