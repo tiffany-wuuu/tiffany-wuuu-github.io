@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Education (Educational Policy and Social Context)
       institution: University of California, Irvine
-      year: 2025 (expected)
+      year: 2025 (exp.)
     - course: MA in Education (Educational Policy and Social Context)
       institution: University of California, Irvine
       year: 2023
