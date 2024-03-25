@@ -55,11 +55,7 @@ sections:
     content:
       title: Skills (new)
       subtitle: 
-      text: Stata
-      Dedoose
-      Data Collection
-      Large-scale Secondary Datasets
-      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!      
+      text: Stata Dedoose Data Collection Large-scale Secondary Datasets Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!      
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
