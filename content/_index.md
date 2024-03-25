@@ -68,18 +68,18 @@ sections:
           company: Educ 106
           company_url: ''
           company_logo: 
-          location: 
+          location: UC Irvine
           date_start: '2020-09-01'
           date_end: '2020-12-01'
           description: Teaching Assistant
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Multicultural Education in K-12 Schools
+          company: Educ 124
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: UC Irvine
+          date_start: '2021-01-01'
+          date_end: '2021-06-01'
+          description: Teaching Assistant, 2 quarters
     design:
       columns: '2'
   - block: accomplishments
