@@ -60,7 +60,7 @@ skills:
         percent: 100
         icon: laptop-code
         icon_pack: fas
-      - name: Qualitative Analysis
+      - name: Dedoose
         description: ''
         percent: 100
         icon: magnifying-glass
