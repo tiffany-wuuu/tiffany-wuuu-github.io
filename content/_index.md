@@ -210,7 +210,7 @@ sections:
           date_start: '2021-01-01'
           date_end: '2021-06-01'
           description: 
-        - title: UCI Policy and Teaching 
+        - title: Policy and Teaching 
           company: UCI Educ 243 (MAT)
           company_url: ''
           company_logo: 
