@@ -72,7 +72,7 @@ skills:
       - name: Data Collection
         description: ''
         percent: 100
-        icon: users-hiking
+        icon: users
         icon_pack: fas
       - name: Large-scale Secondary Datasets
         description: ''
