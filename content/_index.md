@@ -73,22 +73,22 @@ sections:
       <div class="row">
         <div class="column">
           <h2>Data Collection</h2>
-          <p>Some text..</p>
+          <img src="../uploads/people128.png">
         </div>
         
         <div class="column">
           <h2>Large-Scale Secondary Datasets</h2>
-          <p>Some text..</p>
+          <img src="../uploads/spreadsheet.png">
         </div>
         
         <div class="column">
           <h2>Stata</h2>
-          <p>Some text..</p>
+          <img src="../uploads/laptop.png">
         </div>
         
         <div class="column">
           <h2>Qualitative Analysis</h2>
-          <p>Some text..</p>
+          <img src="../uploads/qual.png">
         </div>
       </div>
       '
