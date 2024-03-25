@@ -63,6 +63,7 @@ sections:
           flex-wrap: wrap;
           align-items: center;
           justify-content: center;
+          text-align: center;
         }
 
         /* Create four equal columns */
