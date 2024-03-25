@@ -55,6 +55,7 @@ sections:
     content:
       title: Skills 
       subtitle: 
+      columns: "4"
       text: __Data Collection__ ![People image](uploads/people128.png) **Large-Scale Secondary Datasets** ![spreadsheet image](uploads/spreadsheet.png) **Stata** ![Stata logo](uploads/laptop.png) **Qualitative Analysis** ![Qualitative logo](uploads/qual.png) 
   - block: accomplishments
     content:
