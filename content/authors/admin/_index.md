@@ -30,8 +30,7 @@ bio: ''
 # Interests to show in About widget
 interests:
   - Early Childhood Education Policy
-  - Childcare Subsidies
-  - School Choice
+  - Equity
   - Causal Inference
   - Qualitative Methods
 
