@@ -77,8 +77,8 @@ sections:
         }
 
         @media screen and (max-width: 600px) {
-          .row {
-            flex-direction: column;
+          .column {
+            flex: 50%;
           }
         }
       </style>
