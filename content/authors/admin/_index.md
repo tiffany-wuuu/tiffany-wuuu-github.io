@@ -52,33 +52,33 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Stata
-        description: ''
-        percent: 100
-        icon: laptop-code
-        icon_pack: fas
-      - name: Dedoose
-        description: ''
-        percent: 100
-        icon: magnifying-glass
-        icon_pack: fas
-  - name: Research
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Data Collection
-        description: ''
-        percent: 100
-        icon: users
-        icon_pack: fas
-      - name: Large-scale Secondary Datasets
-        description: ''
-        percent: 100
-        icon: database
-        icon_pack: fas
+#skills:
+#  - name: Technical
+#    items:
+#      - name: Stata
+#        description: ''
+#        percent: 100
+#        icon: laptop-code
+#        icon_pack: fas
+#      - name: Dedoose
+#        description: ''
+#        percent: 100
+#        icon: magnifying-glass
+#        icon_pack: fas
+#  - name: Research
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Data Collection
+#        description: ''
+#        percent: 100
+#        icon: users
+#        icon_pack: fas
+#      - name: Large-scale Secondary Datasets
+#        description: ''
+#        percent: 100
+#        icon: database
+#        icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
