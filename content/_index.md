@@ -72,7 +72,7 @@ sections:
           text-align: center;
         }
 
-        centered-img {
+        .centered-img {
           margin: 0, auto;
         }
       </style>
