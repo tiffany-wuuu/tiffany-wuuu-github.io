@@ -80,22 +80,22 @@ sections:
       <div class="row">
         <div class="column">
           <h2>Data Collection</h2>
-          <img clas="centered-img" src="../uploads/people128.png">
+          <img class="centered-img" src="../uploads/people128.png">
         </div>
         
         <div class="column">
           <h2>Large-Scale Datasets</h2>
-          <img clas="centered-img" src="../uploads/spreadsheet.png">
+          <img class="centered-img" src="../uploads/spreadsheet.png">
         </div>
         
         <div class="column">
           <h2>Stata</h2>
-          <img clas="centered-img" src="../uploads/laptop.png">
+          <img class="centered-img" src="../uploads/laptop.png">
         </div>
         
         <div class="column">
           <h2>Qualitative Analysis</h2>
-          <img clas="centered-img" src="../uploads/qual.png">
+          <img class="centered-img" src="../uploads/qual.png">
         </div>
       </div>
       '
