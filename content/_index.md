@@ -43,19 +43,19 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+#  - block: skills
+#    content:
+#      title: Skills
+#      text: ''
+#      # Choose a user to display skills from (a folder name within `content/authors/`)
+#      username: admin
+#    design:
+#      columns: '1'
   - block: markdown
     content:
-      title: Skills (new)
+      title: Skills 
       subtitle: 
-      text: Stata ![Stata logo](uploads/laptop.png)<br>Qualitative Analysis ![Qualitative logo](uploads/qual.png)<br> Data Collection ![People logo](uploads/people128.png)<br> Large-scale Secondary Datasets ![spreadsheet image](uploads/spreadsheet.png)Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!    
+      text: Stata ![Stata logo](uploads/laptop.png) Qualitative Analysis ![Qualitative logo](uploads/qual.png) Data Collection ![People logo](uploads/people128.png) Large-scale Secondary Datasets ![spreadsheet image](uploads/spreadsheet.png)Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!    
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
