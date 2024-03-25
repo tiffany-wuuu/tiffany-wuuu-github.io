@@ -73,7 +73,7 @@ sections:
         }
 
         .centered-img {
-          margin: 0, auto;
+          margin: 0 auto;
         }
       </style>
 
