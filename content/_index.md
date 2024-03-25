@@ -51,7 +51,7 @@ sections:
       username: admin
     design:
       columns: '1'
- - block: markdown
+  - block: markdown
     content:
       title: My title
       subtitle: My subtitle
