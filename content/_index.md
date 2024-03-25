@@ -211,7 +211,7 @@ sections:
           date_end: '2021-06-01'
           description: 
         - title: UCI Policy and Teaching 
-          company: Educ 243 (MAT)
+          company: UCI Educ 243 (MAT)
           company_url: ''
           company_logo: 
           location: Teaching Assistant, 2 sections
