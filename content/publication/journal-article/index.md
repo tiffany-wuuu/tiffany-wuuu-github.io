@@ -1,5 +1,5 @@
 ---
-title: "School choice among Chinese and Spanish-Speaking parents: Pursuing “truth” and counternarratives from underrepresented families."
+title: "School choice among Chinese and Spanish-Speaking parents: Pursuing “truth” and counternarratives from underrepresented families"
 authors:
 - Verenisse Ponce Soria
 - Adriana Villavicencio
