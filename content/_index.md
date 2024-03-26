@@ -237,7 +237,6 @@ sections:
       columns: '2'
       view: citation
   - block: working papers
-    id: papers
     content:
       title: Working Papers
       subtitle: Under Review
