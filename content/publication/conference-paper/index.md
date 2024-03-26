@@ -1,17 +1,18 @@
 ---
-title: 'An example conference paper'
+title: 'The impacts of subsidized childcare reimbursements on childcare providers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Jade Jenkins
+  - Anamarie Whitaker
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
@@ -43,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+#url_pdf: ''
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
