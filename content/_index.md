@@ -224,7 +224,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Working Papers
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -236,6 +236,12 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: working papers
+    id: papers
+    content:
+      title: Working Papers
+      subtitle: Under Review
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: experience
     id: teaching
     content:
