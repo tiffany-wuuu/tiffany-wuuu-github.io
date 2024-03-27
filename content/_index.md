@@ -241,7 +241,7 @@ sections:
     content:
       title: Working Papers
       subtitle: Under Review
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: TEST
   - block: experience
     id: teaching
     content:
