@@ -241,7 +241,7 @@ sections:
       title: Working Papers
       subtitle: Under Review
       text: '__Wu T.__, Villavicencio, A., Ponce Soria, V. Racial attitudes among Asian American parents and their influence on school choice.<br>
-      Ponce Soria, V., Villavicencio, A., __Wu T.__ (Email for draft) School choice among Chinese and Spanish-Speaking parents: Pursuing “truth” and counternarratives from underrepresented families.'
+      Ponce Soria, V., Villavicencio, A., __Wu T.__  School choice among Chinese and Spanish-Speaking parents: Pursuing “truth” and counternarratives from underrepresented families.'
       
       
   - block: experience
