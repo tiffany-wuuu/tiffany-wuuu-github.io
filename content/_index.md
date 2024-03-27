@@ -105,7 +105,6 @@ sections:
         </div>
       </div>
       '
-#       __Data Collection__ ![People image](uploads/people128.png) **Large-Scale Secondary Datasets** ![spreadsheet image](uploads/spreadsheet.png) **Stata** ![Stata logo](uploads/laptop.png) **Qualitative Analysis** ![Qualitative logo](uploads/qual.png) 
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -236,7 +235,7 @@ sections:
 #    design:
 #      columns: '2'
 #      view: citation
-  - block: working papers
+  - block: markdown
     id: papers
     content:
       title: Working Papers
