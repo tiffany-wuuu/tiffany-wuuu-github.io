@@ -221,22 +221,23 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
+#  - block: publications
+#    id: papers
+#    content:
+#      title: Publications
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
   - block: collection
     id: papers
-    content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: working papers
     content:
       title: Working Papers
       subtitle: Under Review
