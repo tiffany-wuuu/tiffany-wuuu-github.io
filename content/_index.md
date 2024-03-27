@@ -221,7 +221,7 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-#  - block: publications
+#  - block: collection
 #    id: papers
 #    content:
 #      title: Publications
@@ -236,12 +236,12 @@ sections:
 #    design:
 #      columns: '2'
 #      view: citation
-  - block: collection
+  - block: working papers
     id: papers
     content:
       title: Working Papers
       subtitle: Under Review
-      text: TEST
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: experience
     id: teaching
     content:
