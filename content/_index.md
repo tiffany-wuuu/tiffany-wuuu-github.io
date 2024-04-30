@@ -240,7 +240,7 @@ sections:
     content:
       title: Working Papers
       subtitle: Under Review
-      text: '<p><b>Wu T.</b>, Villavicencio, A., Ponce Soria, V. <u>Racial attitudes among Asian American parents and their influence on school choice.</u> <i>Conditionally accepted</i> at Harvard Educational Review</p>
+      text: '<p><b>Wu T.</b>, Villavicencio, A., Ponce Soria, V. <u>Racial attitudes among Asian American parents and their influence on school choice.</u> <i>Accepted</i> at Harvard Educational Review</p>
       <p>Ponce Soria, V., Villavicencio, A., <b>Wu T.</b> <u>Counter-narratives from Spanish and Chinese-speaking parents navigating school choice.</u></p>'
       
       
