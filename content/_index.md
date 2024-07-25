@@ -257,13 +257,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Introduction to Early Childhood Education
-          company: UCI Educ 106 (Undergraduate Course)
+        - title: Policy and Teaching 
+          company: UCI Educ 243 (MAT)
           company_url: ''
           company_logo: 
-          location: Teaching Assistant
-          date_start: '2020-09-01'
-          date_end: '2020-12-01'
+          location: Teaching Assistant, 2 sections
+          date_start: '2021-06-01'
+          date_end: '2021-08-01'
           description: 
         - title: Multicultural Education in K-12 Schools
           company: UCI Educ 124 (Undergraduate Course)
@@ -273,14 +273,14 @@ sections:
           date_start: '2021-01-01'
           date_end: '2021-06-01'
           description: 
-        - title: Policy and Teaching 
-          company: UCI Educ 243 (MAT)
+        - title: Introduction to Early Childhood Education
+          company: UCI Educ 106 (Undergraduate Course)
           company_url: ''
           company_logo: 
-          location: Teaching Assistant, 2 sections
-          date_start: '2021-06-01'
-          date_end: '2021-08-01'
-          description: 
+          location: Teaching Assistant
+          date_start: '2020-09-01'
+          date_end: '2020-12-01'
+          description:           
     design:
       columns: '2'
 #  - block: collection
