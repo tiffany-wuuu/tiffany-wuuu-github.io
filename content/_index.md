@@ -256,15 +256,7 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Applied Regression Analysis (upcoming)
-          company: UCI Educ 265 (PhD Course)
-          company_url: ''
-          company_logo: 
-          location: Teaching Assistant
-          date_start: '2025-01-01'
-          date_end: '2025-3-01'
-          description:      
+      items:   
         - title: Educational, Social, and Behavioral Statistics 
           company: UCI Educ 288A (PhD Course)
           company_url: ''
