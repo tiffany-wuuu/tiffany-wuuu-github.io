@@ -261,7 +261,7 @@ sections:
           company: UCI Educ 265 (PhD Course)
           company_url: ''
           company_logo: 
-          location: Teaching Assistant
+          location: Lab Instructor
           date_start: '2025-01-01'
           date_end: '2025-03-01'
           description:        
@@ -269,7 +269,7 @@ sections:
           company: UCI Educ 288A (PhD Course)
           company_url: ''
           company_logo: 
-          location: Teaching Assistant
+          location: Lab Instructor
           date_start: '2024-09-01'
           date_end: '2024-12-01'
           description:       
