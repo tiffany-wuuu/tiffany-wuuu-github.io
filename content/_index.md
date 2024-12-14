@@ -239,7 +239,7 @@ sections:
     id: papers
     content:
       title: Working Papers
-      subtitle: Under Review
+      subtitle: 
       text: '<p><b>Wu T.</b>, Villavicencio, A., Ponce Soria, V. <u>Racial attitudes among Asian American parents and their influence on school choice.</u> <i>Forthcoming at Harvard Educational Review</i></p>
       <p><b>Wu T.</b>, Jenkins, J.M., & Whitaker, A. <u>Policy impacts of reimbursement rate reform: Evidence from the Child Care and Development Fund.</u> <i> (Working paper available: https://doi.org/10.26300/011p-sh36)</i></p>
       <p>Ponce Soria, V., Villavicencio, A., <b>Wu T.</b> <u>Counter-narratives from Spanish and Chinese-speaking parents navigating school choice.</u> <i>Revise & resubmit</i></p>
