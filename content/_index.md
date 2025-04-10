@@ -242,7 +242,7 @@ sections:
       subtitle: 
       text: '<p><b>Wu T.</b>, Villavicencio, A., Ponce Soria, V. <u>Racial attitudes among Asian American parents and their influence on school choice.</u> <i> Harvard Educational Review 94</i>(4), 491-514. https://doi.org/10.17763/1943-5045-94.4.491</p>
       <p><b>Wu T.</b>, Jenkins, J.M., & Whitaker, A. <u>Policy impacts of reimbursement rate reform: Evidence from the Child Care and Development Fund.</u> <i> (Working paper available: https://doi.org/10.26300/011p-sh36)</i></p>
-      <p>Villavicencio, A., Ponce Soria, V., <b>Wu T.</b> <u>Counter-narratives from Spanish and Chinese-speaking parents navigating school choice.</u> <i>Forthcoming at Race Ethnicity and Education</i></p>
+      <p>Villavicencio, A., Ponce Soria, V., <b>Wu T.</b> <u>Counter-narratives from Spanish and Chinese-speaking parents navigating school choice in the United States.</u> <i> Race Ethnicity and Education</i>1-23. https://doi.org/10.1080/13613324.2025.2488754</p>
       <p>Bailey, D.H., <b>Wu T.</b>, Jenkins, J.M., & Duncan, G.J. <u>Expert forecasts of future impacts of early childhood interventions.</u> <i>Under review</i></p>'
 
       
