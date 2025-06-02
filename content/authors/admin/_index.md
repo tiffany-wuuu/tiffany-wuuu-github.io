@@ -29,7 +29,7 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Early Childhood Education Policy
+  - Education Policy
   - Educational Equity
   - Causal Inference
   - Qualitative Methods
@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Education (Educational Policy and Social Context)
       institution: University of California, Irvine
-      year: 2025 (exp.)
+      year: 2025
     - course: MA in Education (Educational Policy and Social Context)
       institution: University of California, Irvine
       year: 2023
