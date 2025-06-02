@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD in Education
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Irvine School of Education
-    url: https://education.uci.edu/
+  - name: University of Southern California Rossier School of Education
+    url: https://rossier.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
