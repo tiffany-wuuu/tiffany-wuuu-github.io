@@ -86,7 +86,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:tiffanw6@uci.edu
+    link: mailto:tiffany.wu.5@usc.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tiffany_wuuu
