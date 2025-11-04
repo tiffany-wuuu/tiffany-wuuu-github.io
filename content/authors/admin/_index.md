@@ -110,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-Tiffany's work focuses on how education policies can improve opportunities for children in underserved communities. Her current strands of research focus on preK-12 policies, particularly childcare subsidies, the teacher workforce, and school choice. She employs quantitative and qualitative methodologies, collaborating with community partners in research-practice partnerships to advance shared knowledge and support local communities. Tiffany received her Ph.D. in Education from the University of California, Irvine, and is currently a postdoctoral scholar at the USC Rossier School of Education.
+Tiffany's work focuses on how education policies can improve opportunities for children in underserved communities. Her current strands of research focus on preK-12 policies, particularly childcare subsidies, the teacher workforce, and school choice. She employs quantitative and qualitative methodologies, collaborating with community partners in research-practice partnerships to advance shared knowledge and support local communities. Tiffany received her Ph.D. in Education from the University of California, Irvine, and is currently a postdoctoral research scholar at the USC Rossier School of Education.
 {style="text-align: justify;"}
